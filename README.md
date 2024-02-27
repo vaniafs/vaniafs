@@ -1,6 +1,6 @@
 <h1 align="center">Hey Folks! 👋, I'm Vania</h1>
 <h3 align="center">A Passionate IT Student From Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaniafs&label=Profile%20views&color=d920ca&style=flat-square" alt="vaniafs" /> </p>
 
